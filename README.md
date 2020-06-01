@@ -18,3 +18,8 @@ Testing Set contains:
   - 300 Viral Pneumonia X-Rays
   - 300 Normal X-Rays 
   - Total: 689 images 
+
+## Results
+
+  - Achieved 93% Accuracy on Testing Set, with F-1 Score of 0.93, using 5 Convolutional Layers and 25 Epochs. 
+  
