@@ -5,7 +5,9 @@ Dataset can be downloaded from https://www.kaggle.com/tawsifurrahman/covid19-rad
 
 This project also uses COVID-19 X-Rays from https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images?
 
-Research Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/
+Research Papers for further analysis: 
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/
+  - https://arxiv.org/pdf/2004.05758.pdf
 
 ## Project Structure
 
