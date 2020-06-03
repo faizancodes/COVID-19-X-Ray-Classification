@@ -34,3 +34,9 @@ Testing Set contains:
 
 ![COVID Model Graph](https://user-images.githubusercontent.com/43652410/83370470-824caa00-a38d-11ea-89ee-cb411d586838.png) ![COVID Model Graph 2](https://user-images.githubusercontent.com/43652410/83370483-8ed10280-a38d-11ea-9080-5ae5f11fc23c.png)
   
+## Findings 
+
+As you can see, it is very difficult to differentiate between the occurence of the two diseases from a normal x-ray. 
+
+![xray graphic](https://user-images.githubusercontent.com/43652410/83683191-fddb7080-a5b2-11ea-8957-16e59a7e03ea.jpg)
+
