@@ -36,10 +36,12 @@ Testing Set contains:
   
 ## Findings 
 
-As you can see, it is very difficult to differentiate between the occurence of the two diseases from a normal x-ray. In fact, ~20 million radiology reports contain clinically significant errors, where 10% play a role in patient deaths. 
+It is inherently difficult to differentiate between the occurence of the two diseases from a normal x-ray. In fact, ~20 million radiology reports contain clinically significant errors, where 10% play a role in patient deaths. Deep learning offers a solution to this problem.
 
 ![xray graphic](https://user-images.githubusercontent.com/43652410/83683191-fddb7080-a5b2-11ea-8957-16e59a7e03ea.jpg)
 
-Saliency maps can help us better understand the features in the x-rays.
+Saliency maps can help us better understand the features in the x-rays and vizualize what areas of the image are of high importance. The areas of yellow gradient have the greatest influence on the model's prediction. 
 
 ![x ray saliency map graphic](https://user-images.githubusercontent.com/43652410/83685956-72181300-a5b7-11ea-8573-4c244b230c9f.jpg)
+
+It is clear that there are specific areas of importance for each respective disease.  
