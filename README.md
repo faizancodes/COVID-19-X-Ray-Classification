@@ -40,3 +40,6 @@ As you can see, it is very difficult to differentiate between the occurence of t
 
 ![xray graphic](https://user-images.githubusercontent.com/43652410/83683191-fddb7080-a5b2-11ea-8957-16e59a7e03ea.jpg)
 
+Saliency maps can help us better understand the features in the x-rays.
+
+![x ray saliency map graphic](https://user-images.githubusercontent.com/43652410/83685956-72181300-a5b7-11ea-8573-4c244b230c9f.jpg)
