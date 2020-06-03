@@ -36,7 +36,7 @@ Testing Set contains:
   
 ## Findings 
 
-As you can see, it is very difficult to differentiate between the occurence of the two diseases from a normal x-ray. 
+As you can see, it is very difficult to differentiate between the occurence of the two diseases from a normal x-ray. In fact, ~20 million radiology reports contain clinically significant errors, where 10% play a role in patient deaths. 
 
 ![xray graphic](https://user-images.githubusercontent.com/43652410/83683191-fddb7080-a5b2-11ea-8957-16e59a7e03ea.jpg)
 
