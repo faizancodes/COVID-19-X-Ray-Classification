@@ -40,7 +40,7 @@ It is inherently difficult to differentiate between the occurence of the two dis
 
 ![xray graphic](https://user-images.githubusercontent.com/43652410/83683191-fddb7080-a5b2-11ea-8957-16e59a7e03ea.jpg)
 
-Saliency maps can help us better understand the features in the x-rays and vizualize what areas of the image are of high importance. The areas of yellow gradient have the greatest influence on the model's prediction. 
+Saliency maps can help us better understand the features in the x-rays and visualize what areas of the image are of high importance. The areas of yellow gradient have the greatest influence on the model's prediction. 
 
 ![x ray saliency map graphic](https://user-images.githubusercontent.com/43652410/83685956-72181300-a5b7-11ea-8573-4c244b230c9f.jpg)
 
