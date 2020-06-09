@@ -26,6 +26,12 @@ Testing Set contains:
   - 300 Normal X-Rays 
   - Total: 689 images 
 
+## Model Architecture 
+
+![COVID Model 2](https://user-images.githubusercontent.com/43652410/84108527-68930e80-a9ee-11ea-8774-eec8af3ec103.png)
+
+
+
 ## Results
 
   - Achieved 93% Accuracy on Testing Set, with F-1 Score of 0.93, using 5 Convolutional Layers and 25 Epochs. 
