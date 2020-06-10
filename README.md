@@ -52,4 +52,4 @@ Saliency maps can help us better understand the features in the x-rays and visua
 
 ![x ray saliency map graphic](https://user-images.githubusercontent.com/43652410/83685956-72181300-a5b7-11ea-8573-4c244b230c9f.jpg)
 
-It is clear that there are specific areas of importance for each respective disease.  
+
