@@ -10,7 +10,7 @@ This project also uses COVID-19 X-Rays from https://www.kaggle.com/nabeelsajid91
 **Research Papers for further analysis:**
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/
   - https://arxiv.org/pdf/2004.05758.pdf
-  - https://www.nature.com/articles/s41598-019-42557-4
+  - https://arxiv.org/pdf/2003.09871.pdf
 
 ## Project Structure
 
