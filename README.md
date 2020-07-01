@@ -40,6 +40,11 @@ Testing Set contains:
 
 ![f1score](https://user-images.githubusercontent.com/43652410/83465716-cd74c480-a442-11ea-8768-63d91a2df320.png)
 
+
+![COVID Model Confusion Matrix](https://user-images.githubusercontent.com/43652410/86201665-2b71f600-bb2e-11ea-99e5-5dbb8c02c0aa.png)
+
+
+
 ![COVID Model Graph](https://user-images.githubusercontent.com/43652410/83370470-824caa00-a38d-11ea-89ee-cb411d586838.png) ![COVID Model Graph 2](https://user-images.githubusercontent.com/43652410/83370483-8ed10280-a38d-11ea-9080-5ae5f11fc23c.png)
   
 ## Findings 
