@@ -31,6 +31,8 @@ Testing Set contains:
 ![COVID Model 2](https://user-images.githubusercontent.com/43652410/84108527-68930e80-a9ee-11ea-8774-eec8af3ec103.png)
 
 
+![COVID Model Arch copy](https://user-images.githubusercontent.com/43652410/86502216-d670f280-bd6e-11ea-842b-5a9d66168d5e.png)
+
 
 ## Results
 
