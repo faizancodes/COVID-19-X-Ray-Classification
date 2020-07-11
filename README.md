@@ -36,7 +36,7 @@ Testing Set contains:
 
 ## Results
 
-  - Achieved 93% Accuracy on Testing Set, with F-1 Score of 0.93, using 5 Convolutional Layers and 25 Epochs. 
+  - Achieved 93% Accuracy on the Testing Set, with F-1 Score of 93%, after 25 Epochs 
 
 ![COVID Model Graph](https://user-images.githubusercontent.com/43652410/83370470-824caa00-a38d-11ea-89ee-cb411d586838.png) ![COVID Model Graph 2](https://user-images.githubusercontent.com/43652410/83370483-8ed10280-a38d-11ea-9080-5ae5f11fc23c.png)
 
@@ -44,8 +44,12 @@ Testing Set contains:
 
 ![f1score](https://user-images.githubusercontent.com/43652410/83465716-cd74c480-a442-11ea-8768-63d91a2df320.png)
 
-
 ![COVID Model Confusion Matrix](https://user-images.githubusercontent.com/43652410/86201736-52c8c300-bb2e-11ea-812d-ea79d9bfdcf3.png)
+
+The model performance was also evaluated after performing 5-fold cross validation on the entire dataset of 1389 images, in which it produced an average accuracy of 90.64% and average F-1 Score of 89.8
+
+![Annotation 2020-07-11 165540](https://user-images.githubusercontent.com/43652410/87233660-6dedcb00-c397-11ea-9b7b-9ada22828ee7.png)
+
 
   
 ## Findings 
