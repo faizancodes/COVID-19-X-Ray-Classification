@@ -46,7 +46,7 @@ Testing Set contains:
 
 ![COVID Model Confusion Matrix](https://user-images.githubusercontent.com/43652410/86201736-52c8c300-bb2e-11ea-812d-ea79d9bfdcf3.png)
 
-The model performance was also evaluated after performing 5-fold cross validation on the entire dataset of 1389 images, in which it produced an average accuracy of 90.64% and average F-1 Score of 89.8
+The model performance was also evaluated after performing 5-fold cross validation on the entire dataset of 1389 images, in which it produced an average accuracy of 90.64% and average F-1 Score of 89.8%
 
 ![Annotation 2020-07-11 165540](https://user-images.githubusercontent.com/43652410/87233660-6dedcb00-c397-11ea-9b7b-9ada22828ee7.png)
 
