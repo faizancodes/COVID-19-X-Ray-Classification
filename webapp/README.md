@@ -1,8 +1,8 @@
-## COVID-19 Detection Web App
+# COVID-19 Detection Web App
 
 - Download the model weights [here](https://www.dropbox.com/sh/siwkzth0czwg8o4/AADd7O77-9PW23ngbNzTg4nAa?dl=0)
 
-# How to Run the Code
+## How to Run the Code
 
   - Clone the repository `git clone https://github.com/faizancodes/COVID-19-X-Ray-Classification.git`
   
