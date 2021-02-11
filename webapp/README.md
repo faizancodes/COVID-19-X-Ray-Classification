@@ -6,7 +6,7 @@
 
   - Clone the repository `git clone https://github.com/faizancodes/COVID-19-X-Ray-Classification.git`
   
-  - Navigate to the corresponding folder `cd COVID-19-X-Ray-Classification`
+  - Navigate to the corresponding folder `cd COVID-19-X-Ray-Classification\webapp`
   
   - Create a virtual environment
   
