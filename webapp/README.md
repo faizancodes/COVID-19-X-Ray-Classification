@@ -25,5 +25,6 @@
   
   - Run the code `streamlit run webapp.py`
 
+## Example
 
 ![image](https://user-images.githubusercontent.com/43652410/107605958-a3df8000-6c02-11eb-9194-96f8c40be761.png) ![image](https://user-images.githubusercontent.com/43652410/107605985-b48ff600-6c02-11eb-9243-1c91f9aad051.png)
