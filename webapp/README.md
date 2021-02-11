@@ -29,4 +29,5 @@ Test individual x-ray images with the Deep Learning model to detect instances of
 
 ## Example
 
-![image](https://user-images.githubusercontent.com/43652410/107605958-a3df8000-6c02-11eb-9194-96f8c40be761.png) ![image](https://user-images.githubusercontent.com/43652410/107605985-b48ff600-6c02-11eb-9243-1c91f9aad051.png)
+![image](https://user-images.githubusercontent.com/43652410/107689023-513fab80-6c76-11eb-861a-cb8b318eb937.png) ![image](https://user-images.githubusercontent.com/43652410/107689073-60265e00-6c76-11eb-8b19-587726664b9b.png)
+![image](https://user-images.githubusercontent.com/43652410/107689092-6a485c80-6c76-11eb-9603-64e655b1452b.png) ![image](https://user-images.githubusercontent.com/43652410/107689230-9237c000-6c76-11eb-9cce-d255de63b5a8.png)
