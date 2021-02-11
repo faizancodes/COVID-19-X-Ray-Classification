@@ -25,7 +25,7 @@ Test individual x-ray images with the Deep Learning model to detect instances of
   
   - Run the code `streamlit run webapp.py`
 
-  - **Upload the x-ray images you want to test in the `test` folder before using the webapp**
+    ### **Upload the x-ray images you want to test in the `test` folder before using the webapp**
 
 ## Example
 
