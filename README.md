@@ -8,7 +8,8 @@ Utilizing Deep Learning to detect COVID-19 and Viral Pneumonia from x-ray images
 - [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 - [COVID-19 10000 Images](https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images?)
 
-Related Research Papers
+**Related Research Papers:**
+
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187882/
   - https://arxiv.org/pdf/2004.05758.pdf
   - https://arxiv.org/pdf/2003.09871.pdf
