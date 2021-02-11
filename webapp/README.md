@@ -2,6 +2,9 @@
 
 - Download the model weights [here](https://www.dropbox.com/sh/siwkzth0czwg8o4/AADd7O77-9PW23ngbNzTg4nAa?dl=0)
 
+![image](https://user-images.githubusercontent.com/43652410/107605817-48ad8d80-6c02-11eb-908a-c215fde62b2d.png)
+
+
 ## How to Run the Code
 
   - Clone the repository `git clone https://github.com/faizancodes/COVID-19-X-Ray-Classification.git`
