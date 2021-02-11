@@ -1,4 +1,4 @@
-tensorflow_gpu==2.2.0
+tensorflow_gpu==2.4.0
 streamlit==0.76.0
 opencv_python==4.2.0.34
 lime==0.2.0.1
