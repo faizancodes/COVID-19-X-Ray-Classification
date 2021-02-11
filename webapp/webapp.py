@@ -111,7 +111,7 @@ if file is None:
 else:
     
     uploadedImage = Image.open(file)
-    filePath = 'C:\\Users\\faiza\\COVID-19 Deep Learning\\train\\' + file.name
+    filePath = 'test\\' + file.name
     
     st.image(uploadedImage, use_column_width=True)
     prediction = import_and_predict(uploadedImage, model)[0]
