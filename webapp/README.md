@@ -1,6 +1,6 @@
 # COVID-19 Detection Web App
 
-- Download the model weights [here](https://www.dropbox.com/sh/siwkzth0czwg8o4/AADd7O77-9PW23ngbNzTg4nAa?dl=0)
+Test out individual x-ray images with the Deep Learning model
 
 ## How to Run the Code
 
