@@ -1,6 +1,6 @@
 # COVID-19 Detection Web App
 
-Test out individual x-ray images with the Deep Learning model
+Test individual x-ray images with the Deep Learning model to detect instances of COVID-19 & Viral Pneumonia
 
 ## How to Run the Code
 
